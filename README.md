@@ -31,6 +31,6 @@ The challenge was done to build a QR code component.
 
 ## Author
 BABAWIBE DUKE
-- Frontend Mentor - [@](https://www.frontendmentor.io/profile/Babapara)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/Babapara)
 
 
