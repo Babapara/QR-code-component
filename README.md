@@ -21,7 +21,7 @@ This project is a response to a coding challenge aimed at creating a QR code com
 The challenge was done to build a QR code component.
 
 ### Links
-- Live Site URL: 
+- Live Site URL: https://babapara.github.io/QR-code-component/
 
 
 ### Built with
