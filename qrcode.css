@@ -1,0 +1,49 @@
+.attribution { 
+    font-size: 11px;
+     text-align: center; 
+    }
+    .attribution a { 
+        color: hsl(228, 45%, 44%); 
+    }
+
+   body{
+    background-color:hsl(216, 18%, 67%);
+    height:100dvh;
+}
+
+.first-layer{
+    justify-content: center;
+    text-align: center;
+    margin-top:70px;
+    
+    }
+
+    .second-layer{
+        text-align: center;
+        font-size: 19px;
+        margin-bottom:20px;
+
+    }
+
+    img{
+        width:200px;
+        height:200px; 
+        margin-top:50px;
+        margin-bottom:20px;
+    }
+    main{
+        background-color:white;
+        width:400px;
+        height: 500px;
+        margin-left:450px;
+        margin-bottom: 50px;
+    }
+
+    .scan{
+        margin-top:10px;
+        color:hsl(213, 5%, 34%);
+    }
+
+    .improve{
+        font-weight:550;
+    }
